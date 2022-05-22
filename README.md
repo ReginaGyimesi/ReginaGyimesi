@@ -6,7 +6,7 @@
 - 🎓 I'm a 3rd-year Computer Science student at the University of Strathcylde in Glasgow, Scotland
 - 💻 I'm working as a React developer at [Develops Hungary](https://develops.hu/en)
 - 🌱 I’m currently learning Haskell, and continously advancing in Java and C
-- 📫 Reach me on **gyimesi.regina@gmail.com**
+- 📫 Reach me on gyimesi.regina@gmail.com
 
 <h3 align="left">Always keen to connect:</h3>
 <p align="left">
