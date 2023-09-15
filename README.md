@@ -3,8 +3,7 @@
 
 ### About my coding journey so far:
 
-- 🎓 I'm a 4th-year Computer Science student at the University of Strathcylde in Glasgow, Scotland
-- 💻 I'm working as a Junior Software Developer at [Develops Hungary](https://develops.hu/en)
+- 💻 I'm working as a Software Developer at [Wise]([https://wise.com/])
 - 📫 Reach me on gyimesi.regina@gmail.com
 
 <h3 align="left">Always keen to connect:</h3>
