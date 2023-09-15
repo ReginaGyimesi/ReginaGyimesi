@@ -3,7 +3,7 @@
 
 ### About my coding journey so far:
 
-- 💻 I'm working as a Software Developer at [Wise]([https://wise.com/])
+- 💻 I'm working as a Software Developer at [Wise](https://wise.com/)
 - 📫 Reach me on gyimesi.regina@gmail.com
 
 <h3 align="left">Always keen to connect:</h3>
