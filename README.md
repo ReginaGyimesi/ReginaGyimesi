@@ -4,9 +4,10 @@
 ### About my coding journey so far:
 
 - 💻 I'm working as a Software Developer at [Wise](https://wise.com/)
-- 📫 Reach me on gyimesi.regina@gmail.com
+- 🎓 Graduated from the University of Strathclyde with First Class Honours in Computer Science
 
 <h3 align="left">Always keen to connect:</h3>
+- 📫 Reach me on gyimesi.regina@gmail.com
 <p align="left">
 <a href="https://linkedin.com/in/regina-gyimesi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="regina-gyimesi" height="30" width="40" /></a>
 </p>
